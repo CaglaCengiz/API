@@ -1,4 +1,4 @@
-package deleteRequest;
+package DeleteRequest;
 
 import BaseURLs.RestFullBookerHerOkuAppBaseURL;
 import io.restassured.http.ContentType;

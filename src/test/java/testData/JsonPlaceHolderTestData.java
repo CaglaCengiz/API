@@ -21,7 +21,7 @@ public class JsonPlaceHolderTestData {
         expectedData.put("StatusCode", 200);
         expectedData.put("Server", "cloudflare");
         expectedData.put("userId", 1);
-        expectedData.put("id", 2.0);
+        expectedData.put("id", 2);
         expectedData.put("title", "quis ut nam facilis et officia qui");
         expectedData.put("completed", false);
 
